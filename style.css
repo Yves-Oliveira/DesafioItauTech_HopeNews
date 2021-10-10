@@ -66,7 +66,13 @@ header ul li a {
     font-size: 1.2em; 
     font-weight: 900; 
 }
-
+.content .textbox h3{
+  color: #333; 
+  font-size: 2.5em; 
+  font-weight: 900; 
+  position: absolute;  
+  right: 480px; 
+}
 .content .textbox p{
     color: #333;
 }
@@ -131,11 +137,7 @@ transition: 0.5s;
   filter: invert(1);
 } 
 
-
-
-
-
-
+/*Notícias*/
 .wrapper{
 width:1200px;
 margin:100px auto;
@@ -168,7 +170,7 @@ color:#fff;
 text-decoration:none;
 text-transform:capitalize;
 font-size:18px;
-background-color:#ff7720;
+background-color:#017143;
 padding:10px 30px;
 }
 .blog-info{
@@ -200,7 +202,7 @@ margin-bottom:10px;
 padding-bottom:5px;
 }
 .blog-content a{
-background-color:#ff7720;
+background-color:#017143;
 color:#fff;
 text-decoration:none;
 padding:10px 20px;
