@@ -15,10 +15,12 @@ section {
   background: #ffffff;
   line-height: 1em;
 }
-.space h3{
+.space{
   position: relative;
   width: 100%;
-  padding-top: 100px;
+  padding-top: 75px;
+}
+.space h3{
   font-size: 3em; 
   text-align: center;
  
@@ -150,12 +152,22 @@ transition: 0.5s;
 width:1200px;
 margin:100px auto;
 }
-
+.wrapper-news{
+  width:1200px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left:100px;
+  }
 .blog{
 display:flex;
 flex-wrap:wrap;
 justify-content:space-between;
 }
+.blog-news{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  }
 .single-blog{
 flex-basis:390px;
 border:1px solid #eee;
