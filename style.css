@@ -239,3 +239,28 @@ z-index:-1;
 .blog-content a:hover:before{
 left:0;
 }
+
+/*footer*/
+footer{
+  background: #017143;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #fff;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.footer-content p{
+  max-width: 500px;
+  margin: 5px auto;
+  line-height: 15px;
+  font-size: 14px;
+}
+.footer-content a{
+  color: #fff;
+  text-decoration: none;
+}
