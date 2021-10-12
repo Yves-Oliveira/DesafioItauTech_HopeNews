@@ -11,9 +11,18 @@ section {
   min-height: 100vh;
   padding: 100px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
   background: #ffffff;
+  line-height: 1em;
+}
+.space h3{
+  position: relative;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 25px;
+  font-size: 3em; 
+  text-align: center;
+ 
 }
 header {
   position: absolute;
