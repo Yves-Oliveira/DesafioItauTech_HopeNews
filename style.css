@@ -145,7 +145,7 @@ margin:100px auto;
 .blog{
 display:flex;
 flex-wrap:wrap;
-justify-content:space-between
+justify-content:space-between;
 }
 .single-blog{
 flex-basis:390px;
@@ -177,19 +177,24 @@ padding:10px 30px;
 width:80%;
 margin:0 auto;
 border:1px solid #ccc;
-position:relative;
+position: relative;
 z-index:2;
 margin-top:-30px;
 padding:10px 5px;
 background-color:#fff;
 text-align:center;
 }
-.blog-info a{
+.blog-info a {
 color:#333;
-text-decoration:none;
 margin:0 10px;
-display:inline-block
+text-decoration:none;
+display: inline-block;
 }
+.blog-info a span{
+  color:#333;
+  vertical-align: middle;
+  text-align: center;
+  }
 .blog-content{
 padding:20px;
 }
