@@ -19,7 +19,6 @@ section {
   position: relative;
   width: 100%;
   padding-top: 100px;
-  padding-bottom: 25px;
   font-size: 3em; 
   text-align: center;
  
@@ -151,6 +150,7 @@ transition: 0.5s;
 width:1200px;
 margin:100px auto;
 }
+
 .blog{
 display:flex;
 flex-wrap:wrap;
