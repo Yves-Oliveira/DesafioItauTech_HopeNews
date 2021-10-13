@@ -17,7 +17,7 @@ section {
 }
 header {
   position: sticky;
-  top: 0;
+  top: 20px;
   left: 0;
   width: 100%;
   padding: 20px 100px;
