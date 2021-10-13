@@ -275,5 +275,5 @@ p{
 }
 
 img{
-  align-content: center;
+  align-self: auto;
 }
