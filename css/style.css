@@ -274,6 +274,8 @@ p{
   text-align: justify;
 }
 
-img{
-  align-self: auto;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
