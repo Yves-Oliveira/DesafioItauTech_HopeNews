@@ -16,7 +16,7 @@ section {
   background: #ffffff;
 }
 header {
-  position: absolute;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;
@@ -283,7 +283,6 @@ h3{
 }
 
 p {
-  text-indent: 50px;
   text-align: justify;
 }
 
