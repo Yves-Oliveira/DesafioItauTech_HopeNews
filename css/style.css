@@ -71,6 +71,14 @@ header ul li a {
     line-height: 1.4em; 
     font-weight: 500; 
 }
+
+.content .textbox h2 p{
+  color: #333; 
+  font-size: 4em; 
+  line-height: 1.4em; 
+  font-weight: 500; 
+}
+
 .content .textbox h2 span{
     color: #017143;
     font-size: 1.2em; 
@@ -81,7 +89,8 @@ header ul li a {
   font-size: 2.5em; 
   font-weight: 900; 
   position: absolute;  
-  right: 480px; 
+  right: 480px;
+  text-align: center;
 }
 .content .textbox p{
     color: #333;
@@ -284,4 +293,18 @@ footer{
 .footer-content a{
   color: #fff;
   text-decoration: none;
+}
+
+h3{
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
