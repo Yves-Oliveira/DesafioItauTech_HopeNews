@@ -61,6 +61,14 @@ header ul li a {
     line-height: 1.4em; 
     font-weight: 500; 
 }
+
+.content .textbox h2 p{
+  color: #333; 
+  font-size: 4em; 
+  line-height: 1.4em; 
+  font-weight: 500; 
+}
+
 .content .textbox h2 span{
     color: #017143;
     font-size: 1.2em; 
