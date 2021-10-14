@@ -165,8 +165,8 @@ margin:100px auto;
   width:1200px;
   margin-top: 25px;
   margin-bottom: 25px;
-  margin-left:100px;
-  margin-right:100px;
+  margin-left:auto;
+  margin-right:auto;
   }
 .blog{
 display:flex;
