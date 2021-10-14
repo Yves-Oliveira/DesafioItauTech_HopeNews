@@ -170,10 +170,8 @@ margin:100px auto;
   }
 .questionario{
   width:100%;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left:auto;
-  margin-right:auto;
+  height: 60%;
+  margin: auto;
   }
 .blog{
 display:flex;
