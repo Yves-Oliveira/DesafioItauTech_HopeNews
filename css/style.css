@@ -168,6 +168,13 @@ margin:100px auto;
   margin-left:auto;
   margin-right:auto;
   }
+.questionario{
+  width:1200px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left:auto;
+  margin-right:auto;
+  }
 .blog{
 display:flex;
 flex-wrap:wrap;
