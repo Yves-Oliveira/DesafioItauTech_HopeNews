@@ -171,6 +171,8 @@ margin:100px auto;
 .questionario{
   width:100%;
   height:400px;
+  margin-top: auto;
+  margin-bottom: auto;
   margin-left:auto;
   margin-right:auto;
   }
