@@ -156,6 +156,15 @@ transition: 0.5s;
   filter: invert(1);
 } 
 
+/*Questionário*/
+.questionario{
+  width:1200px;
+  margin-top: 100px;
+  margin-bottom: 75px;
+  margin-left:auto;
+  margin-right:auto;
+  }
+
 /*Notícias*/
 .wrapper{
 width:1200px;
@@ -165,13 +174,6 @@ margin:100px auto;
   width:1200px;
   margin-top: 25px;
   margin-bottom: 25px;
-  margin-left:auto;
-  margin-right:auto;
-  }
-.questionario{
-  width:1200px;
-  margin-top: 100px;
-  margin-bottom: 75px;
   margin-left:auto;
   margin-right:auto;
   }
@@ -316,3 +318,12 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+/*Fonte de Notícias*/
+.fonte-news{
+  width:1200px;
+  margin-top: 100px;
+  margin-bottom: 75px;
+  margin-left:auto;
+  margin-right:auto;
+  }
